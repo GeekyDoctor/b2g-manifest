@@ -15,7 +15,7 @@
   </project>
   <project name="fake-dalvik" path="dalvik" remote="b2g" revision="v1.4"/>
   <project name="gaia.git" path="gaia" remote="b2g" revision="v1.4"/>
-  <project name="gecko-b2g.git" path="gecko" remote="mb2g" revision="v1.4"/>
+  <project name="gecko-b2g.git" path="gecko" remote="b2g" revision="v1.4"/>
   <project name="gonk-misc" path="gonk-misc" remote="b2g" revision="v1.4"/>
   <project name="rilproxy" path="rilproxy" remote="b2g" revision="v1.4"/>
   <project name="platform_hardware_ril" path="hardware/ril" remote="b2g" revision="v1.4"/>
